@@ -1,0 +1,15 @@
+atom_types;['B', 'C', 'O', 'F', 'S', 'I']
+formal_charge;[0, 1]
+max_n_nodes;20
+job_type;preprocess
+dataset_dir;./datatest/test1/
+restart;False
+model;GGNN
+sample_every;2
+init_lr;0.0001
+epochs;100
+batch_size;500
+block_size;1000
+n_samples;100
+device;cpu
+job_dir;./datatest/output_test1\hc-solves/job_0/

@@ -1,0 +1,9 @@
+atom_types;['B', 'C', 'O', 'F', 'S', 'I']
+chirality;['None', 'R', 'S']
+formal_charge;[0, 1]
+ignore_H;True
+imp_H;[0, 1, 2, 3]
+max_n_nodes;20
+use_aromatic_bonds;False
+use_chirality;False
+use_explicit_H;False

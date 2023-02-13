@@ -1,0 +1,3 @@
+Atom types present in input file: ['B', 'C', 'O', 'F', 'S', 'I']
+Formal charges present in input file: [0, 1]
+Max number of atoms in input file: 20
