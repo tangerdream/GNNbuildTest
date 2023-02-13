@@ -122,10 +122,7 @@ def submit() -> None:
         runmain(constants)
 
 
-        # sleep a few secs before submitting next job
-        # print("-- Sleeping 2 seconds.")
-        # time.sleep(2)
-        # return constants
+
 
 
 def write_input_csv(params_dict : dict, filename : str="params.csv") -> None:
