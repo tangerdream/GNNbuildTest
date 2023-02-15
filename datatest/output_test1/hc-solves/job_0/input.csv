@@ -4,7 +4,6 @@ max_n_nodes;20
 job_type;preprocess
 dataset_dir;./datatest/test1/
 restart;False
-model;GGNN
 sample_every;2
 init_lr;0.0001
 epochs;100
